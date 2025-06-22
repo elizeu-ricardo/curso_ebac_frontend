@@ -1,0 +1,1 @@
+function numBer(n,e){return n+e}console.log(numBer(100,600));
